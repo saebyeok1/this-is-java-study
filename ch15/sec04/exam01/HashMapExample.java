@@ -1,4 +1,4 @@
-package ch15.sec04.HashMap;
+package ch15.sec04.exam01;
 
 import java.util.HashMap;
 import java.util.Iterator;
